@@ -7,7 +7,7 @@ Hi, I'm Yuqi. Here are some coding samples editted from my previous projects. Th
 
 3. Replication_Stata_3.do: A replication project from importing raw data (initially in ACSII format) to replicating of tables in article.
 
-   Replication_Result_3.pdf: [READING THIS SAVES YOUR TIME!] The pdf file illustrate how I replicate the paper, including main results and comparisons between original results and relication as well as important sections of the code. It's a summary of the dofile with explicit results.
+   Replication_Result_3.pdf: [READING THIS SAVES YOUR TIME!] The pdf file illustrate how I replicate the paper, including main results and comparisons between original results and replication as well as important sections of the code. It's a summary of the dofile with explicit results.
 
 5. ABMsimulation_4.m: Code to replicate a agent-based model paper using MATLAB; the numerical simulation result could be seen directly ABMsimulation_4.png
 
