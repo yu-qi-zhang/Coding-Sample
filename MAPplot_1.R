@@ -1,5 +1,5 @@
 # This is an R script for 3 aims:
-#1 Loading any geographic shape file into R
+#1 Loading any geographic shape file into R (for this sample, it's on Korea province-city-district level)
 #2 Generating sample dataset
 #3 Drawing map plot of this dataset with some settings
 
