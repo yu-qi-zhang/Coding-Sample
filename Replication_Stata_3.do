@@ -1,9 +1,17 @@
+* This file replicates the following paper
+* Cascio, E. U. (2009). Maternal Labor Supply and the Introduction of Kindergartens into American Public Schools. The Journal of Human Resources, 44(1), 140–170. http://www.jstor.org/stable/20648890
+
+* The replication includes three parts
+* (1) Basic cleaning from ASCII-coded raw data file
+* (2) Descriptive statistics and regression following the paper
+* (3) Generating various tables matching the forms in the paper
+
 clear
-cd "/Users/fileyu7/Desktop/kindergarten"
+
 /*
 pick all variables, the 1990 census is organized by household members records follow their household record; to make is more concise I kept only part of the infixing process.
 */
-cd "/Users/fileyu7/Desktop/kindergarten/PUMS/CENSUS1990"
+cd "  "
 clear
 forvalues v=1/2{
 	clear
