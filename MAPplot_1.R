@@ -11,7 +11,7 @@ library(ggplot2)
 library(tmap)
 
 #A.Load the map data
-korea_lvl2 <- st_read("~/Downloads/map_KOR/gadm41_KOR_shp/gadm41_KOR_2.shp") 
+korea_lvl2 <- st_read("~/gadm41_KOR_2.shp") 
 
 # Check the boundaries
 ggplot(data = korea_lvl2) +
