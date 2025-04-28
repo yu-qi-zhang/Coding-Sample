@@ -3,7 +3,7 @@
 
 % The procedure mainly involves 3 tasks:
 % 1. Basic setting of agent-based model
-% 2. Solving iffrential equations system by  fourth-order Runge-Kutta method
+% 2. Solving diffrential equations system by fourth-order Runge-Kutta method
 % 3. Numerical simulation plots
 
 
