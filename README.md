@@ -1,7 +1,7 @@
 # Coding-Sample
 Hi, I'm Yuqi. Here are some coding samples editted from my previous projects. The contents of files are as below:
 
-1. MAPplot_1.R: A map plot using geographic shape file and artificially generated dataset, using R.
+1. MAPplot_1.R: A map plot using geographic shape file and artificially generated dataset, using R; the result could be seen directly in MAPplot_1.png
 
 2. TEXTtoDATA_2.R: Extracting data from text in pdf files, basic cleaning and exporting as excel or dta file.
 
