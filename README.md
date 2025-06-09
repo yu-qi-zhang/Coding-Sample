@@ -9,5 +9,12 @@ Hi, I'm Yuqi. Here are some coding samples editted from my previous projects. Th
 
    Replication_Result_3.pdf: [READING THIS SAVES TIME!] The pdf file illustrate how I replicate the paper, including main results and comparisons between original results and replication as well as important sections of the code. It's a summary of the dofile with explicit results.
 
-5. ABMsimulation_4.m: Code to replicate an agent-based model paper using MATLAB; the numerical simulation result could be seen directly in ABMsimulation_4.png
+4. ABMsimulation_4.m: Code to replicate an agent-based model paper using MATLAB; the numerical simulation result could be seen directly in ABMsimulation_4.png
+
+5. Text_Clean_5.py: Code to clean and construct (mostly based on text information) a usable dataset from raw dataset scrapped from real world recruitment website, the original dataset is Raw_Scrapped_5.csv and resulting dataset is Cleaned_5.csv
+
+   Plot_Analysis_5.py: By-group comparison, poisson regression and a geographical plot, which is shown in Graph_5.png
+
+Looking forward to working with you.
+   
 
