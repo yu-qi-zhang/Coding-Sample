@@ -4,9 +4,9 @@ import numpy as np
 from itertools import chain
 
 df = pd.read_csv("jobkorea_nurse_merged.csv")
-print("\n📊 This is the original dataset scrapped from jobkorea.co.kr, "
+print("\n📊 This is the original dataset scraped from jobkorea.co.kr, "
       "\n which is one of the most widely used recruitment website in Korea"
-      "This is an exercise dataset, since it only contains records scrapped in one day")
+      "This is an exercise dataset, since it only contains records scraped in one day")
 # rename variable name
 rename_dict = {
     "id": "job_id",
