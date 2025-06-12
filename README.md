@@ -11,7 +11,7 @@ Hi, I'm Yuqi. Here are some coding samples editted from my previous projects. Th
 
 4. ABMsimulation_4.m: Code to replicate an agent-based model paper using MATLAB; the numerical simulation result could be seen directly in ABMsimulation_4.png
 
-5. Text_Clean_5.py: Code to clean and construct (mostly based on text information) a usable dataset from raw dataset scrapped from real world recruitment website, the original dataset is Raw_Scrapped_5.csv and resulting dataset is Cleaned_5.csv
+5. Text_Clean_5.py: Code to clean and construct a usable dataset from raw dataset (both numerical information and text) scraped from a recruitment website (jobkorea.co.kr), the original dataset is Raw_Scrapped_5.csv and cleaned dataset is Cleaned_5.csv
 
    Plot_Analysis_5.py: By-group comparison, poisson regression and a geographical plot, which is shown in Graph_5.png
 
